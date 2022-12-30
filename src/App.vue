@@ -5,7 +5,7 @@
     <router-link to="/about">hello</router-link>
     <router-link to="/about">word</router-link>
 
-    <router-link to="/about">222</router-link>
+    <router-link to="/about">333</router-link>
   </div>
   <router-view/>
 </template>
